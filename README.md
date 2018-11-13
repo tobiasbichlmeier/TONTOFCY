@@ -4,7 +4,7 @@ Library for Arduino. Delay On-Timer (TON), Delay Off-Timer, Cycle Bits and Cycle
 This Library includes three functions.
 A Delay-ON-Timer 
 A Delay-OFF-Timer
-Cycle Bits an Flags
+Cycle Bits and Flags
 
 		void ton (timeronoff* t);
 		void tof (timeronoff* t);
