@@ -60,8 +60,8 @@ public:
 
         ~TONTOFCY();
 
-		void ton (timeronoff* t);
-		void tof (timeronoff* t);
+		void ton (timeronoff *t);
+		void tof (timeronoff *t);
 		void cyfl(cycleflag *t);
 };
 #endif

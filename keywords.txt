@@ -14,7 +14,7 @@ TONTOFCY	KEYWORD1
 
 ton	KEYWORD2
 tof	KEYWORD2
-
+cyfl KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
