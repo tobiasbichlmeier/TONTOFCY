@@ -12,10 +12,9 @@ Cycle Bits and Flags
 
 Cycle Bits and Flags like following
 
-flag[0]  = 5ms flag
-
-cycle[0] = 5ms cyle 
-flag[1]  = 10ms flag
+flag[0]  = 5ms flag.
+cycle[0] = 5ms cyle. 
+flag[1]  = 10ms flag.
 cycle[1] = 10ms cyle 
 flag[2]  = 20ms flag
 cycle[2] = 20ms cyle 
